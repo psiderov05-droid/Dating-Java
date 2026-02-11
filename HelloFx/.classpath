@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="lib" path="/home/runerat/IDEs/javafx-sdk-25.0.2/lib/jfx.incubator.richtext.jar"/>
 	<classpathentry kind="lib" path="/home/runerat/IDEs/javafx-sdk-25.0.2/lib/jfx.incubator.input.jar"/>
 	<classpathentry kind="lib" path="/home/runerat/IDEs/javafx-sdk-25.0.2/lib/jdk.jsobject.jar"/>
