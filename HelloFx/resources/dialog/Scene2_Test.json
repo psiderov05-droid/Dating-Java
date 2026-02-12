@@ -1,10 +1,8 @@
 {
 	"lines":
 	[
-	"Ugghhh. . . .",
-	"(while wearing a school uniform): I hate my life! I am in the prime of it, yet I have no \ngirlfriend, I am failing at most of my tests because I can't concentrate in class, my \nparents told me to get out of the house to an apartment they own even though I am \nonly 17 and to top it all off, I'm broke!",
-	"Maaaaaan! This life is not worth it! I wish I could live in a different world in which I \nwas free from it all. No more parental neglect, no more being penniless, no more being \nwithout a maiden by my side!",	
-	"(Sign) I guess that only happens in anime and movies, so I will just be going to \nmy small 100 square feet apartment."
+	"Fuck this shit",
+	"I don't know what I am doing"
 	],
 
 	"charaters":
@@ -12,6 +10,6 @@
 		{"x":0,"y":0,"image":"123.jpg"},
 		{"x":350,"y":850,"image":"oldManTestPhoto.jpg"},
 		{"x":150,"y":200,"image":"1.jpg"},
-		{"x":300,"y":200,"image":"2.jpg"}
+		{"x":1300,"y":200,"image":"2.jpg"}
 	]
 }
